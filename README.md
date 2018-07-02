@@ -6,3 +6,4 @@ I modified a few things from the original exercise:<ul>
   <li>Added social media icons to the navbar.</li>
   <li>Changed the background image.</li>
   <li>Changed the text shadows.</li>
+  <li>Changed the button to display a different cat related pun each time the page is visited.</li>
